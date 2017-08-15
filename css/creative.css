@@ -33,7 +33,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+h1 {
+  white-space: pre-line;
+  font-weight: bold;
+  font-size: 5rem !important;
+}
 
 p {
   font-size: 16px;
